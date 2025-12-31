@@ -154,11 +154,3 @@ ScheduleWise/
 | GET | `/api/profile` | Get user energy profile |
 | PUT | `/api/profile` | Update energy profile |
 
-## 🔒 Environment Variables
-
-Create a `.env` file in the Backend folder (do not commit to repository):
-
-```env
-SECRET_KEY=your-secret-key-here
-DATABASE_URL=sqlite:///schedulewise.db
-```
