@@ -1,0 +1,39 @@
+# Virtual environments
+venv/
+venv_clean/
+venv_new/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Instance folder
+instance/
+
+# Database files (optional - remove if you want to include)
+*.db
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
